@@ -1,13 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="224c3d96-18e4-4445-aee4-a7c34226b719" name="Default Changelist" comment="" />
+    <list default="true" id="224c3d96-18e4-4445-aee4-a7c34226b719" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1h7nBXV3VUjpYG1eNIx0QPM3QeM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +50,8 @@
     <property name="jsx.switch.disabled" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,10 +69,37 @@
       <workItem from="1599376852978" duration="4000" />
       <workItem from="1599380489788" duration="65000" />
       <workItem from="1599387936049" duration="38000" />
+      <workItem from="1599388000081" duration="2231000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="219" key="#Inspections" timestamp="1599388914097">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="530" y="219" key="#Inspections/0.23.1792.1017@0.23.1792.1017" timestamp="1599388914097" />
+    <state x="360" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599388363369">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="360" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1599388363369" />
+    <state x="752" y="173" key="SettingsEditor" timestamp="1599389332206">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="752" y="173" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1599389208442" />
+    <state x="752" y="173" key="SettingsEditor/0.23.1792.1020@0.23.1792.1020" timestamp="1599389332206" />
   </component>
 </project>
